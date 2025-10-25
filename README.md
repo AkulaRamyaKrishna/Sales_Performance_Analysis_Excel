@@ -21,6 +21,6 @@ The Excel file includes pivot tables, charts, and a dashboard to analyze revenue
 - Microsoft Excel (Pivot Tables, Charts, Dashboard)
 
 ## How to Use
-1. Open the Excel workbook (`Sales_Performance_Analysis.xlsx`)  
+1. Open the Excel workbook (`Sales_Data_cleaned_file.xlsx`)  
 2. Navigate to the dashboard sheet to view key insights.  
 3. Explore pivot tables and charts to analyze sales performance across different dimensions. 
