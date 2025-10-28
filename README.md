@@ -33,7 +33,6 @@ Removed duplicate rows to ensure data accuracy.
 A dedicated Dashboard sheet was created containing:
 
 ✔ Key insights & charts
-✔ Summary metrics
 ✔ Interactive visual layout for business review
 
 
