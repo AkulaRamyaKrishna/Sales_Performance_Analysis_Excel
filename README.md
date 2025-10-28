@@ -1,26 +1,47 @@
 # Sales Performance Analysis – Excel
-
+Excel Data Cleaning & Dashboard Project
+This project demonstrates end-to-end data cleaning, transformation, and dashboard creation using Microsoft Excel.
+The dataset originally existed in a CSV format and was cleaned, formatted, and visualized to extract meaningful business insights.
 ## Project Overview
-This Excel workbook contains a Sales Performance Analysis for a company. 
-The original dataset was in CSV format and was cleaned before being converted into an Excel workbook. 
-The Excel file includes pivot tables, charts, and a dashboard to analyze revenue, profit, and profit margin trends across clients, regions, and departments.
+The objective of this project is to clean raw sales data, apply proper formatting, handle data quality issues, create calculated metrics, and build an interactive dashboard for analysis.
 
 ## Workflow
-1. **Data Cleaning:** Original CSV data was cleaned to handle missing values, standardize text, and correct inconsistencies.
-2. **Conversion to Excel:** The cleaned dataset was exported to Excel for further analysis.
-3. **Pivot Tables & Charts:** Created pivot tables to summarize revenue, profit, and profit margin by Client, Region, and Department.
-4. **Dashboard:** An interactive dashboard was built to provide quick insights.
+1. Importing Data
+Loaded the raw CSV file into Excel using Data → Get Data → From Text/CSV.
+Converted the data into an Excel Table for easier formatting and analysis.
 
-## Features
-- Cleaned and structured Excel dataset
-- Pivot tables summarizing revenue and profit
-- Charts visualizing key metrics
-- Interactive dashboard for business insights
+2. Formatting Data Types
+
+3. Cleaning Blank & Duplicate Records
+Replaced blank cells with "Unknown".
+Removed duplicate rows to ensure data accuracy.
+
+4. Text Standardization
+   Applied TRIM + PROPER to clean text formatting for:
+   - Client Representative
+   - Region
+   - Department
+
+5.Visualizations Created
+  Using Pivot Tables & Pivot Charts:
+  - Revenue by Region
+  - Profit by Department
+  - Top 5 Clients by Sales
+  - Overall sales and profit trends
+ 
+6. Dashboard
+A dedicated Dashboard sheet was created containing:
+
+✔ Key insights & charts
+✔ Summary metrics
+✔ Interactive visual layout for business review
+
+
 
 ## Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Dashboard)
 
 ## How to Use
-1. Open the Excel workbook (`Sales_Data_cleaned_file.xlsx`)  
+1. Open the Excel workbook (`cleaned_Sales_Data.xlsx`)  
 2. Navigate to the dashboard sheet to view key insights.  
 3. Explore pivot tables and charts to analyze sales performance across different dimensions. 
