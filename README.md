@@ -41,6 +41,6 @@ A dedicated Dashboard sheet was created containing:
 - Microsoft Excel (Pivot Tables, Charts, Dashboard)
 
 ## How to Use
-1. Open the Excel workbook (`cleaned_Sales_Data.xlsx`)  
+1. Open the Excel workbook (`sales_Data_Cleaned_file.xlsx`)  
 2. Navigate to the dashboard sheet to view key insights.  
 3. Explore pivot tables and charts to analyze sales performance across different dimensions. 
